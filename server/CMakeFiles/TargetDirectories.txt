@@ -1,0 +1,3 @@
+/mnt/c/TCPunch/server/CMakeFiles/tcpunchd.dir
+/mnt/c/TCPunch/server/CMakeFiles/edit_cache.dir
+/mnt/c/TCPunch/server/CMakeFiles/rebuild_cache.dir
